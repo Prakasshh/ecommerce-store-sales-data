@@ -1,6 +1,6 @@
 # 🛒 Store Sales Analysis (2022) – Excel Dashboard
 
-![Dashboard Screenshot](https://github.com/Prakasshh/credit-card-customer-analysis/blob/main/Screenshot%202025-07-29%20091815.png?raw=true)
+![Dashboard Screenshot](https://github.com/Prakasshh/ecommerce-store-sales-data/blob/main/store%20data%20analysis%20dashboard.png?raw=true)
 
 This project presents a complete **Store Sales Analysis Dashboard** built entirely using **Microsoft Excel**, showcasing deep insights from raw e-commerce sales data after cleaning and transformation.
 
@@ -24,27 +24,8 @@ This project presents a complete **Store Sales Analysis Dashboard** built entire
 4. The **Adult Women** group contributes the most in terms of sales, at **34.94%**.
 5. **Amazon (36%)** and **Myntra (23%)** are the top-performing sales channels in 2022.
 
----
 
-## 📁 File Information
 
-- **File Name:** `store-sales-analysis-2022.xlsx`
-- **Tool Used:** Microsoft Excel
-- **Data Type:** Cleaned & Transformed E-commerce Transactional Data
-- **Prepared By:** @Prakasshh
 
----
-
-## 📌 Ideal For:
-
-- Business Managers  
-- Sales Analysts  
-- Excel Learners  
-- Dashboard Designers  
-- Non-technical stakeholders wanting instant insights
-
----
-
-> 💡 If you like this project, don't forget to ⭐ the repo and follow for more!
 
 
